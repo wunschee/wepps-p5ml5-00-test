@@ -1,0 +1,19 @@
+{
+  "name": "webapp",
+  "private": true,
+  "version": "1.0.0",
+  "author": "Wunschee",
+  "description": "wepps-p5ml5-00-test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wunschee/wepps-p5ml5-00-test.git"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "main": "app.js",
+  "license": "ISC"
+}
